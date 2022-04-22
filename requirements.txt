@@ -21,6 +21,7 @@ idna==3.3
 importlib-metadata==4.11.3
 itsdangerous==2.1.2
 Jinja2==3.1.1
+langdetect==1.0.9
 Mako==1.2.0
 MarkupSafe==2.1.1
 moment==0.12.1
@@ -31,7 +32,7 @@ pytz==2022.1
 pytz-deprecation-shim==0.1.0.post0
 regex==2022.3.2
 six==1.16.0
-SQLAlchemy==1.4.34
+SQLAlchemy==1.4.35
 times==0.7
 tzdata==2022.1
 tzlocal==4.2
